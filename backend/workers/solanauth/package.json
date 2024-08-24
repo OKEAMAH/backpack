@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "@solana/web3.js": "^1.62.1",
-    "hono": "^2.2.1"
+    "hono": "^4.5.8"
   }
 }
