@@ -4,15 +4,15 @@
   "private": true,
   "source": "src/index.html",
   "dependencies": {
-    "@solana/spl-token": "^0.2.0",
+    "@solana/spl-token": "^0.3.2",
     "@solana/wallet-adapter-base": "^0.9.9",
     "@solana/wallet-adapter-react": "^0.15.8",
     "@solana/wallet-adapter-react-ui": "^0.9.11",
-    "@solana/wallet-adapter-wallets": "^0.16.9",
-    "@solana/web3.js": "^1.36.0",
+    "@solana/wallet-adapter-wallets": "^0.19.21",
+    "@solana/web3.js": "^1.95.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "wagmi": "^0.6.3"
+    "wagmi": "^0.11.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.43",
