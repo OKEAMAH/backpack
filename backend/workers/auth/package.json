@@ -13,9 +13,9 @@
     "zeus": "npx zeus http://localhost:8112/v1/graphql ./src --header=x-hasura-admin-secret:myadminsecretkey"
   },
   "dependencies": {
-    "@solana/web3.js": "^1.63.1",
+    "@solana/web3.js": "^1.54.1",
     "bs58": "^5.0.0",
-    "hono": "^2.2.1",
+    "hono": "^4.6.5",
     "tweetnacl": "^1.0.3",
     "zod": "^3.19.1"
   }
